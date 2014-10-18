@@ -16,7 +16,7 @@ It contains a fully functional client in the app/ directory, and a service that 
 
 ## Use this code as an example.
 
-Firereader was built using [AngularFire-seed](https://github.com/firebase/angularFire-seed). If you want to build similar angularFire apps, check it out!
+Firereader was built using [AngularFire-seed](https://github.com/yayconnolly/angularFire-seed). If you want to build similar angularFire apps, check it out!
 
 ## Contributing
 
